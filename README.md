@@ -1,4 +1,4 @@
-# DealTypora是一个专门处理makedown的软件
+# DealTypora是一个专门处理markdown的软件
 ## 目前已有功能：
 markdown文件在不同主机上的转移
 ## 解决问题：
